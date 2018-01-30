@@ -1,0 +1,15 @@
+{
+    "title": "IT's a boris",
+    "baseURL": "https:\/\/www.pskmanum.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "pskmanum.com"
+    }
+}
